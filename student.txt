@@ -1,0 +1,4 @@
+Student name: Oleh Dzoba
+Student number: 703658
+Student class: IT1E
+URL student GitHub repository: https://github.com/olehdzoba/olehdzoba.github.io
